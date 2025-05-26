@@ -14,7 +14,6 @@ void stream() {
   });
   controller.add("Anurag");
   controller.add("Tiwari");
-  controller.add("Narendra");
   controller.close();
 }
 
