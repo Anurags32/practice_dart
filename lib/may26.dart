@@ -23,3 +23,10 @@ Stream<int> countStream() async* {
     yield i;
   }
 }
+
+// void greter() {
+//   List ab = [1, 2, 5, 88, 8, 33, 33, 4, 22, 99];
+//   var bigger = ab[0];
+//   var smaller = ab[0];
+//   for(int i =0; )
+// }
